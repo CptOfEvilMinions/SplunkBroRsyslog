@@ -1,0 +1,6 @@
+group_vars/all.yml
+group_vars/rsyslog.yml
+group_vars/splunk.yml
+group_vars/zeek.yml
+*.retry
+.vscode

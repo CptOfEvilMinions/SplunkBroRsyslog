@@ -1,0 +1,13 @@
+######################### General Zeek settings #########################
+zeek_hostname: ''
+zeek_interface: ''
+zeek_mail_to: 
+zeek_user: zeek
+
+zeek_base: '/opt/zeek'
+zeek_geoip: True
+zeek_geoip_db_url: 'http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz'
+
+zeek_file_extraction: False
+zeek_stats: True
+zeek_custom_scripts: True

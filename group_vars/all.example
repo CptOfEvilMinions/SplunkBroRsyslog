@@ -1,0 +1,14 @@
+######################### General info #########################
+hostname: 
+base_domain: 
+timezone: America/New_York
+
+######################### Cert settings #########################
+cert_country: 
+cert_state: 
+cert_local: 
+cert_org: 
+
+######################### Slack settings #########################
+slack_token: 
+slack_channel: 
